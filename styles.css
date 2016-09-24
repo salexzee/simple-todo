@@ -1,0 +1,29 @@
+.container {
+  width: 60%;
+  margin-top: 50px;
+}
+
+.btn {
+  margin-right: 10px;
+}
+
+.item {
+  text-transform: lowercase;
+}
+
+.completed {
+  background-color: #dfd;
+}
+
+.form-group {
+  width: 70%;
+}
+
+.form-inline .form-control {
+  width: 100%;
+}
+
+.no-todos {
+  text-align: center;
+  display: none;
+}
